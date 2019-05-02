@@ -1,0 +1,33 @@
+
+
+API REST FULL para Produtos
+
+Listar todos os produtos.
+
+Cadastrar produto
+
+Deletar produto
+
+Atualizar produto
+
+
+Banco de dados dos produtos
+
+    Produtos{
+        Nome,
+        Marca,
+        Preco,
+        Quantidade,
+    }
+
+Listar todos os produtos
+    nome: Carro; marca: x; preco:20000; quantidade: 10;
+
+Cadastrar produto
+    nome, marca, preco, quantidade
+
+Atualizar produto
+    id do produto, nome, marca, preco, quantidade
+
+Deletar produto
+    id do produto

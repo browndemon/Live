@@ -1,0 +1,8 @@
+tabela do banco Produtos{
+    id,
+    nome,
+    marca,
+    valor,
+    quantidade
+}
+
